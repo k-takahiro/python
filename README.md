@@ -1,8 +1,8 @@
 # python
 
 ■python インストール<br/>
-≪手順≫
-https://www.python.jp/install/windows/index.html
+≪手順≫<br/>
+https://www.python.jp/install/windows/index.html<br/>
 
 ≪インストール媒体≫<br/>
 https://pythonlinks.python.jp/
