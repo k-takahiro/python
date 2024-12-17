@@ -1,7 +1,7 @@
 import shapefile
 
 # Shapefileの読み込み
-shp_path = 'demo\\work\\python\\P04-14_47_GML\\P04-14_47-g_MedicalInstitution.shp'
+shp_path = 'python\P04-14_47_GML\P04-14_47-g_MedicalInstitution.shp'
 sf = shapefile.Reader(shp_path, encoding='cp932')
 
 print("Geometry:")
